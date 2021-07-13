@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "515826683731",
+    "project_id": "mokast-v2",
+    "storage_bucket": "mokast-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515826683731:android:4c3fb9d65b3e3203739ba6",
+        "android_client_info": {
+          "package_name": "de.dennisvocke.mokastv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515826683731-cbrf37g6kg5gf97auvbjaqn9unqn1i8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDLvA_GjX4V3JB9lc5pRDt9xhviHPp-Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515826683731-cbrf37g6kg5gf97auvbjaqn9unqn1i8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515826683731-c8tlf07c8em4jb7hnsecp2fldajgljkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.dennisvocke.mokast-v2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
